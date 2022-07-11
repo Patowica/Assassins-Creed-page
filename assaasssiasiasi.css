@@ -2,3 +2,76 @@ li {
   display: inline-block;
   text-decoration: none;
 }
+.acbr {
+  position: absolute;
+  top: 100px;
+  position: absolute;
+  right: 10px;
+}
+.ac2 {
+  position: absolute;
+  left: 700px;
+  position: absolute;
+  top: 100px;
+}
+.ac1 {
+  position: absolute;
+  left: 10px;
+  position: absolute;
+  top: 100px;
+  width: 580px;
+}
+.acre {
+  position: absolute;
+  left: 10px;
+  position: absolute;
+  top: 400px;
+}
+.ac3 {
+  position: absolute;
+  left: 700px;
+  position: absolute;
+  top: 400px;
+}
+.acbf {
+  position: absolute;
+  top: 400px;
+  position: absolute;
+  right: 10px;
+}
+.acro {
+  position: absolute;
+  left: 10px;
+  position: absolute;
+  top: 700px;
+}
+.acun {
+  position: absolute;
+  left: 700px;
+  position: absolute;
+  top: 700px;
+}
+.acsy {
+  position: absolute;
+  right: 10px;
+  position: absolute;
+  top: 700px;
+}
+.acor {
+  position: absolute;
+  left: 10px;
+  position: absolute;
+  top: 1000px;
+}
+.acod {
+  position: absolute;
+  left: 700px;
+  position: absolute;
+  top: 1000px;
+}
+.acva {
+  position: absolute;
+  right: 10px;
+  position: absolute;
+  top: 1000px;
+}
