@@ -77,4 +77,10 @@ li {
 }
 .logo {width: 300px; position: absolute; left: 800px; position: absolute; top: 50px;}
 .line1 {position: absolute; right: 50px; position: absolute; top: 30px;}
+
 .line2 {position: absolute; left: 50px; position: absolute; top: 30px;}
+.copy {position: absolute; top: 1600px; position: absolute; right: 10px;}
+.line3 {position: absolute; right: 330px; position: absolute; top: 430px; transform: rotate(90deg);}
+.line4 {position: absolute; right: 330px; position: absolute; top: 1088px; transform: rotate(90deg);}
+.line5 {position: absolute; left: 330px; position: absolute; top: 430px; transform: rotate(270deg);}
+.line6 {position: absolute; left: 330px; position: absolute; top: 1088px; transform: rotate(270deg);}
